@@ -1,0 +1,17 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#entrada {
+    background-color: #ccc;
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+#saida {
+    background-color: lightgreen;
+    padding: 20px;
+    border-radius: 6px;    
+}
